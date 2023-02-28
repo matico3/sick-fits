@@ -1,0 +1,40 @@
+# dependencies
+/node_modules
+
+# tests
+/__tests__
+
+# Logs
+logs
+*.log
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# next.js
+/.next/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+.npmrc
+/.vscode
+Jest.setup.js
+.eslintrc.json
+
+# local env files
+.env*.local
+
+# vercel
+.vercel
